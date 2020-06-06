@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qsWEyiq2bUyLnnRtGMZ3BgSlV2piD3H8H1FnJLw9n33xpS90b0h5vV6MOgM0UvJn8LQ5ZYJuTJlf7TKiHlsjtw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\guita\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guita\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
